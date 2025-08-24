@@ -1,51 +1,56 @@
-<h1 align="center">Привіт! Я — Diana (dianka297) 👋</h1>
-<p align="center">Student Fullstack Developer 💻 | SMM & Node.js Enthusiast</p>
+<h1 align="center">Hi there, I'm Diana 👋</h1>
+<h3 align="center">Junior Frontend Developer | React, JavaScript, TypeScript</h3>
 
 ---
 
-## 👩‍💻 Про мене
-- 🌱 Вивчаю **Fullstack розробку** (HTML, CSS, JavaScript, Node.js, MongoDB).
-- 🎯 Хочу поєднати **маркетинг + IT** у своїх проєктах.
-- 🚀 Будую портфоліо з реальними прикладами роботи.
+## 🚀 About Me
+I create modern, adaptive and user-friendly web applications using **HTML, CSS, JavaScript, React, TypeScript**.  
+I understand Git, Redux well, and can work with **Figma** and **Vercel**.  
+
+💡 I am constantly learning, solving real problems in projects and strive to write clean, readable code.  
+✨ I am open to interesting offers where I can develop and benefit the team!
 
 ---
 
-## 🧰 Технології
+## 🛠️ Tech Stack
 <p>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
----Hey there, I'm Diana! GIF
+---
 
-## 📊 Статистика
+## 📊 GitHub Stats
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dianka297&show_icons=true&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dianka297&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianka297&layout=compact&theme=tokyonight"/>
 </p>
 
+---
+
+## 🏆 Achievements
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=dianka297&theme=onedark&no-frame=true&margin-w=15"/>
 </p>
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dianka297&bg_color=0D1117&color=58A6FF&line=58A6FF&point=1F6FEB&hide_border=true"/>
-</p>
+---
+
+## 🌱 Currently Learning
+- Advanced React patterns
+- TypeScript best practices
+- Responsive & accessible UI/UX design
 
 ---
 
-## 🚀 Обрані проєкти
-- [goit-markup-hw](https://github.com/dianka297/goit-markup-hw-06) — верстка сайту.
-- [nodejs-hw-mongodb](#) — API з авторизацією та MongoDB.
-
----
-
-## 📬 Контакти
-- 📧 Email: dianamakaradze96@gmail.com  
+## 📬 Contacts
+- 📧 Email: **dianamakaradze96@gmail.com**  
 - 💬 Telegram: [@di_nighter](https://t.me/di_nighter)  
-- 💼 LinkedIn: [Diana Makharadze](https://www.linkedin.com/in/diana-makharadze-61a947332/)
+- 💼 LinkedIn: [Diana Makharadze](https://www.linkedin.com/in/diana-makharadze-61a947332/)  
 
