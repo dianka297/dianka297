@@ -35,10 +35,6 @@ I understand Git, Redux well, and can work with **Figma** and **Vercel**.
 
 ---
 
-## 🏆 Achievements
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=dianka297&theme=onedark&no-frame=true&margin-w=15"/>
-</p>
 
 ---
 
